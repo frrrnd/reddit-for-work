@@ -1,4 +1,4 @@
-## Reddit for Work #
+## Reddit for Work Chrome Extension #
 
 Hide NSFW posts.
 
