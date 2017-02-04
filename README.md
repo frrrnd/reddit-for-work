@@ -1,8 +1,8 @@
-## Reddit for Work Chrome Extension #
+# Reddit for Work Chrome Extension
 
-Hide NSFW posts.
+Hide NSFW posts from [reddit.com](https://reddit.com "Title") 🔴
 
-### Manually installation
+## Manually installation
 Download zip and extract the files.
 
 Go to ``Chrome > Preferences > Extensions.``
@@ -14,3 +14,7 @@ Click in ``Load unpacked extension`` and load folder with files.
 Open reddit.com
 
 Enjoy.
+
+## License
+
+MIT. See /LICENSE
